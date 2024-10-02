@@ -1,6 +1,6 @@
 # Api cadastro de clientes 
 
-<img src="http://github.com/kleitonADS/ClienteApiPHPReactJS/blob/main/img.png"  width="500px" alt="Screenshot Profile" />
+<img src=".github/preview.png" />
 
 ## Tecnologias
 - PHP Laravel
