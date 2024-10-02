@@ -1,12 +1,12 @@
 # Api cadastro de clientes 
-
-<img src=".github/preview.png" />
+<img width="1350" alt="img" src="https://github.com/user-attachments/assets/5d9dfa29-e7b0-4333-8047-cdb6164e2b07">
 
 ## Tecnologias
 - PHP Laravel
 - MySQL
 - React.js
 - Tailwind CSS
+
 
 ## Instalação
 
